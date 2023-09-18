@@ -5,6 +5,7 @@
 
 .lessons {
     display: flex;
+    justify-content: center;
 }
 
 .lesson h3 {
